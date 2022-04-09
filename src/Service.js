@@ -14,7 +14,7 @@ const Service = () => {
                                 <div><div id="549952340175794470" align="right" style={{ width: '100%', overflowY: 'hidden' }} class="wcustomhtml"><a href="https://orcid.org/0000-0001-9013-8676" target="orcid.widget" rel="noopener noreferrer"
                                     style={{ verticalAlign: 'top' }}><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style={{ width: '1em', marginRight: '.5em' }} alt="ORCID iD icon" />orcid.org/0000-0003-4375-2096</a></div>
                                 </div>
-                                <div class="paragraph" style={{ textAlign: 'right' }}><font size="3"><a href="https://scholar.google.com/citations?user=TR8GZ_cAAAAJ&hl=en" target="_blank">GoogleScholar</a></font><br /></div>
+                                <div class="paragraph" style={{ textAlign: 'right' }}><font size="3"><a href="https://scholar.google.com/citations?user=TR8GZ_cAAAAJ&hl=en" target="_blank" rel="noreferrer">GoogleScholar</a></font><br /></div>
                             </div>
                         </div></div>
                         <div class="paragraph" style={{ textAlign: 'justify', marginTop: '40px' }}>
